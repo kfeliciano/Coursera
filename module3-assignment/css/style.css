@@ -1,0 +1,57 @@
+body {
+    background-color: #baf1e4;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar {
+    padding: 0;
+}
+.company-name {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #f7e8dd;
+    padding: 10px;
+}
+
+.bg-dark {
+    background-color: #fa3c5a !important;
+}
+
+.navbar-toggler {
+    margin-right: 10px;
+}
+
+h1.text-center {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    color: #fa3c5a;
+}
+
+section .text-center {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.test {
+    background-color: #fa3c5a;
+    margin: 0 10px 30px 10px;
+    padding: 15px;
+    color: #fff;
+    box-shadow: 10px 10px 20px #48b9a8;
+    border: 5px solid #fc6c8c;
+}
+
+#navbarsExample01 {
+    background-color: #48b9a8;
+    padding: 0 10px;
+    border: 2px solid #fff;
+} 
+
+hr {
+    padding: 0;
+    margin: 0 0 10px 0;
+    color: #fff;
+    border-color: #fff;
+}
+
